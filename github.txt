@@ -1,0 +1,51 @@
+GitHub nedir?
+GitHub; kalabalık bir ekibin sürüm kontrol sisteminde bir yazılım geliştirirken kullanabilecekleri internet tabanlı bir depolama servisidir.
+GitHub, Git yönetim sistemi ile geliştirilen yazılımlarda kullanılır.
+Açık kaynak kodlu bir servis olması nedeniyle pek çok yazılım ekibi tarafından kullanılmakta ve geliştirilmektedir.
+
+GitHub servisini kaç kişinin kullandığı ve kaç kişinin aynı anda bir proje üzerinde çalıştığı önemli değildir.
+Servise dahil olmak ve proje üzerinde çalışmak için internet bağlantısı gereklidir.
+İnternet tabanlı olduğu için GitHub servisi ile proje üzerinde yapılan değişiklikleri söz konusu ekibin tamamı görebilir.
+
+
+
+
+Ana Sayfa  Başka
+GitHub Kullanmanın Temel Faydaları Nelerdir?
+
+Bir yazılım geliştirme endüstrisindeyseniz, büyük olasılıkla duymuşsunuzdur.
+GitHub , Git için web tabanlı bir grafik arayüze sahip bir depo barındırma hizmeti.
+Bugün, bunu tartışmak ve kullanmaktan elde edeceğiniz temel faydalardan bahsetmek istiyorum. GitHub.
+
+GitHub Git ve Hub olarak ikiye ayrılabilir.
+Hizmet, erişim denetimlerinin yanı sıra, temel görev yönetimi ve yürüttüğünüz tüm projeler için araçlar gibi bir dizi işbirliği özelliği içerir.
+GitHub kaynak kod projelerinizi çeşitli farklı programlama dillerinde barındırır ve her yinelemede yapılan çeşitli değişiklikleri takip eder.
+Yani, Git sürüm kontrol sistemini ifade eder; geliştiricilerin kodlarında yapılan sürekli revizyonları takip etmelerini sağlayan bir araç.
+merkez katılan benzer düşünen bireylerin topluluğudur. Her şey, topluluğun yüklenen kodu gözden geçirme, iyileştirme ve yeni fikirler türetme konusundaki ortak çabasıyla ilgilidir.
+Kesinlikle araştırmaya değer bir şey!
+Peki Kullanmanın Temel Faydaları Nelerdir? GitHub ?
+Açık Kaynak Projelerinize Katkıda Bulunmayı Kolaylaştırır
+Dürüst olmak gerekirse, hemen hemen her açık kaynak projesi şunları kullanır:
+GitHub projelerini yönetmek için.
+kullanma GitHub projeniz açık kaynak ise ücretsizdir ve GitHub daha ayrıntılı belgeler eklemeyi ve projeniz hakkında geri bildirim almayı kolaylaştıran bir wiki ve sorun izleyici içerir.
+Katkıda bulunmak istiyorsanız, sadece bir projeyi çatallayın, değişikliklerinizi yapın ve ardından kullanarak onlara bir çekme isteği gönderin. GitHub web arayüzü.
+
+belgeler
+Kullanarak GitHub , mükemmel belgeler elde etmeyi kolaylaştırırsınız. Yardım bölümleri ve kılavuzları, git ile ilgili aklınıza gelebilecek hemen hemen her konu için makaleler içerir.
+
+Çalışmanızı Sergileyin
+İşverenleri çekmek isteyen bir geliştirici misiniz? GitHub Bunun için güvenebileceğiniz en iyi araçtır.
+Bugün, projeleri için yeni eleman ararken çoğu şirket, GitHub profiller. Profiliniz uygunsa, harika bir üniversiteden veya kolejden olmasanız bile işe alınma şansınız daha yüksek olacaktır.
+
+indirim
+Markdown, biçimlendirilmiş belgeler yazmak için basit bir metin düzenleyicisi kullanmanıza olanak tanır.
+GitHub her şeyi Markdown aracılığıyla kanalize ederek yazımda devrim yarattı: sorun izleyici, kullanıcı yorumları, her şey.
+Proje kurmak için öğrenilecek çok sayıda başka programlama diliyle, başka bir sistem öğrenmek zorunda kalmadan içeriğinizin bir formatta girilmesi gerçekten büyük bir avantaj.
+
+GitHub bir Depo
+Bu daha önce belirtilmişti, ancak not etmek önemlidir, GitHub bir depodur.
+Bunun anlamı, çalışmanızın halkın önünde dışarı çıkmasına izin vermesidir.
+Dahası, GitHub şu anda çevredeki en büyük kodlama topluluklarından biridir, bu nedenle projeniz için geniş bir ilgi alanıdır.
+
+Sürümler Arasında Kodunuzdaki Değişiklikleri İzleyin
+Bir projede birden fazla kişi işbirliği yaptığında, revizyonları (kimin neyi, ne zaman ve nerede değiştirdiğini) bu dosyaların depolandığını takip etmek zordur. GitHub depoya gönderilen tüm değişiklikleri takip ederek bu sorunu halleder. Microsoft Word veya Google Drive’ı kullanmaya çok benzer şekilde, önceki sürümlerin her yinelemede kaybolmaması için kodunuzun sürüm geçmişine sahip olabilirsiniz.
